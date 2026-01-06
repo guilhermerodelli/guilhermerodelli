@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Guilherme Rodelli
 
-<!--
-**guilhermerodelli/guilhermerodelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desenvolvedor Back-end Júnior em formação  
+💻 Java | Spring Boot | Python | SQL | Docker  
 
-Here are some ideas to get you started:
+Atualmente atuo como Assistente de TI, onde trabalho com suporte técnico, análise de sistemas e resolução de problemas.
+Estou em busca da minha primeira oportunidade como Desenvolvedor Back-end Júnior.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+- Java (Spring Boot)
+- Python (Flask, Selenium)
+- SQL / MySQL
+- Docker
+- RabbitMQ
+- Git & GitHub
+
+## 📂 Projetos em destaque
+Confira abaixo alguns projetos práticos focados em back-end.
+
+📫 **Contato**
+- LinkedIn: https://www.linkedin.com/in/guilherme-rodelli-b16b6814b
+- Email: guisilva.r@hotmail.com
+- celular: (11) 96354-8763
