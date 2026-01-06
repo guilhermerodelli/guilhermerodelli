@@ -15,13 +15,10 @@ Estou em busca da minha primeira oportunidade como Desenvolvedor Back-end Júnio
 - Git & GitHub
 
 ## 📂 Projetos em destaque
-Confira abaixo alguns projetos práticos focados em back-end.
 
-API-JAVA
-
-API-com-PYTHON
-
-Bot-WhatsApp
+🔹 [API-JAVA](https://github.com/guilhermerodelli/API-JAVA)  
+🔹 [API-com-PYTHON](https://github.com/guilhermerodelli/API-com-PYTHON)  
+🔹 [Bot-WhatsApp](https://github.com/guilhermerodelli/Bot-WhatsApp) 
 
 📫 **Contato**
 - LinkedIn: https://www.linkedin.com/in/guilherme-rodelli-b16b6814b
