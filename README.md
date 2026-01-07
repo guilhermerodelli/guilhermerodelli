@@ -12,7 +12,7 @@ Estou em busca da minha primeira oportunidade como Desenvolvedor Back-end Júnio
 - SQL / MySQL
 - Docker
 - RabbitMQ
-- Git & GitHub
+- GitHub
 
 ## 📂 Projetos em destaque
 
