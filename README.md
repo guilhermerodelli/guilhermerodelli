@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Guilherme Rodelli
+# 👋 Opa, eu sou o Guilherme Rodelli
 
 🎯 Desenvolvedor Back-end Júnior em formação  
 💻 Java | Spring Boot | Python | SQL | Docker  
