@@ -1,6 +1,6 @@
 # 👋 Opa, eu sou o Guilherme Rodelli
 
-🎯 Desenvolvedor Back-end Júnior em formação  
+🎯 Desenvolvedor Back-end Júnior   
 💻 Java | Spring Boot | Python | SQL | Docker  
 
 Atualmente atuo como Assistente de TI, onde trabalho com suporte técnico, análise de sistemas e resolução de problemas.
