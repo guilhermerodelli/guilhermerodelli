@@ -1,8 +1,7 @@
-<h1 align="center">Opa, Eu sou Guilherme Rodelli</h1>
+<h1 align="center">👋 Opa, eu sou Guilherme Rodelli</h1>
 
 <p align="center">
-💻 Desenvolvedor Back-end/Full-Stack <br>
-🚀 Java • Spring Boot • Python • Selenium • SQL • REST APIs • Git • Docker • HTML • CSS • JavaScript
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-end+%2F+Full-Stack;Java+%7C+Spring+Boot+%7C+Python;Selenium+%7C+SQL+%7C+APIs+REST" />
 </p>
 
 <div align="center">
@@ -19,9 +18,9 @@
 
 Atualmente atuo como **Assistente de TI**, trabalhando com:
 
-- suporte técnico
-- análise de sistemas
-- resolução de problemas
+- suporte técnico  
+- análise de sistemas  
+- resolução de problemas  
 
 Estou em busca da minha primeira oportunidade como **Desenvolvedor Back-end/Full-Stack Júnior**.
 
@@ -29,47 +28,46 @@ Estou em busca da minha primeira oportunidade como **Desenvolvedor Back-end/Full
 
 ## 🚀 Tecnologias
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,python,selenium,mysql,docker,git,github,html,css,js,vscode" />
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,selenium,mysql,docker,git,github,html,css,js,vscode" />
+</p>
 
 ---
 
 ## 📊 Estatísticas
 
-<div align="center">
+<p align="center">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermerodelli&theme=tokyonight"/>
+</p>
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guilhermerodelli&theme=tokyonight"/>
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guilhermerodelli&theme=tokyonight"/>
-
-</div>
+<p align="center">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guilhermerodelli&theme=tokyonight"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guilhermerodelli&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 🔥 Contribuições
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=guilhermerodelli&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=guilhermerodelli&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 ## 📌 Projetos em destaque
 
-### ⚙️ API RESTful (Java + Spring Boot)
-Sistema backend com autenticação, CRUD completo e arquitetura em camadas.
+### 🧠 API REST com Spring Boot
+Sistema backend com autenticação, CRUD e arquitetura em camadas.
 
 ### 🤖 Automação com Python + Selenium
 Scripts de automação para testes e tarefas repetitivas.
 
-### 🗄️ Banco de Dados (MySQL)
-Modelagem, queries avançadas e otimização de consultas.
+### 🗄️ Sistema com SQL
+Modelagem de banco de dados e consultas otimizadas.
 
 ---
 
-🚧 Em constante evolução...
+<p align="center">
+🚀 Sempre evoluindo e construindo novos projetos
+</p>
