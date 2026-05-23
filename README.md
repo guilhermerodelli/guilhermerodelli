@@ -1,26 +1,67 @@
-#  Opa, eu sou o Guilherme Rodelli
+<h1 align="center">Olá 👋 Eu sou Guilherme Rodelli</h1>
 
- Desenvolvedor Back-end    
-💻 Java | Spring Boot | Python | SQL | Docker  
+<p align="center">
+💻 Desenvolvedor Back-end/Full-Stack <br>
+🚀 Java • Spring Boot • Python • Selenium • SQL • REST APIs • Git • Docker • HTML • CSS • JavaScript
+</p>
 
-Atualmente atuo como Assistente de TI, onde trabalho com suporte técnico, análise de sistemas e resolução de problemas.
-Estou em busca da minha primeira oportunidade como Desenvolvedor Back-end Júnior.
+<div align="center">
 
-##  Tecnologias
-- Java (Spring Boot)
-- Python (Flask, Selenium)
-- SQL / MySQL
-- Docker
-- RabbitMQ
-- GitHub
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
 
-##  Projetos em destaque
+</div>
 
-🔹 [API-JAVA](https://github.com/guilhermerodelli/API-JAVA)  
-🔹 [API-com-PYTHON](https://github.com/guilhermerodelli/API-com-PYTHON)  
-🔹 [Bot-WhatsApp](https://github.com/guilhermerodelli/Bot-WhatsApp) 
+---
 
- **Contato**
-- LinkedIn: https://www.linkedin.com/in/guilherme-rodelli-b16b6814b
-- Email: guisilva.r@hotmail.com
-- celular: (11) 96354-8763
+## 👨‍💻 Sobre mim
+
+Atualmente atuo como **Assistente de TI**, trabalhando com:
+
+- suporte técnico
+- análise de sistemas
+- resolução de problemas
+
+Estou em busca da minha primeira oportunidade como **Desenvolvedor Back-end/Full-Stack Júnior**.
+
+---
+
+## 🚀 Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,selenium,mysql,docker,git,github,html,css,js,vscode" />
+
+</div>
+
+<p align="center">
+Java • Spring Boot • Python • Selenium • SQL • REST APIs • Git • Docker • HTML • CSS • JavaScript
+</p>
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermerodelli&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermerodelli&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Contribuições
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermerodelli&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📌 Projetos em destaque
+
+🚧 Em constante evolução...
