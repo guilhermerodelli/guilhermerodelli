@@ -1,7 +1,7 @@
-<h1 align="center"> Opa, eu sou Guilherme Rodelli</h1>
+<h1 align="center">👋 Opa, eu sou Guilherme Rodelli</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-end+%2F+Full-Stack;Java+%7C+Spring+Boot+%7C+Python;Selenium+%7C+SQL+%7C+APIs+REST" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+Python;React+%7C+JavaScript+%7C+SQL;APIs+REST+%7C+Automação+%7C+Docker" />
 </p>
 
 <div align="center">
@@ -20,16 +20,17 @@ Atualmente atuo como **Assistente de TI**, trabalhando com:
 
 - suporte técnico  
 - análise de sistemas  
+- automação de processos  
 - resolução de problemas  
 
-Estou em busca da minha primeira oportunidade como **Desenvolvedor Back-end/Full-Stack Júnior**.
+Estou em busca da minha primeira oportunidade como **Desenvolvedor Full-Stack Júnior**.
 
 ---
 
 ## 🚀 Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,selenium,mysql,docker,git,github,html,css,js,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,js,react,html,css,mysql,docker,selenium,git,github,vscode" />
 </p>
 
 ---
@@ -57,17 +58,20 @@ Estou em busca da minha primeira oportunidade como **Desenvolvedor Back-end/Full
 
 ## 📌 Projetos em destaque
 
-### 🧠 API REST com Spring Boot
-Sistema backend com autenticação, CRUD e arquitetura em camadas.
+### 🧠 API REST Full-Stack (Java + Spring Boot)
+Sistema backend com autenticação, CRUD e integração com banco de dados.
 
-### 🤖 Automação com Python + Selenium
+### 🌐 Frontend Web (React / JS)
+Interfaces responsivas consumindo APIs REST.
+
+### 🤖 Automação com Selenium
 Scripts de automação para testes e tarefas repetitivas.
 
-### 🗄️ Sistema com SQL
-Modelagem de banco de dados e consultas otimizadas.
+### 🗄️ Banco de Dados (MySQL)
+Modelagem, consultas e otimização de dados.
 
 ---
 
 <p align="center">
-🚀 Sempre evoluindo e construindo novos projetos
+🚀 Full-Stack em evolução constante | Sempre aprendendo e construindo
 </p>
