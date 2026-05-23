@@ -7,7 +7,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-rodelli-b16b6814b/)
+<a href="https://www.linkedin.com/in/guilherme-rodelli-b16b6814b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
@@ -33,21 +35,15 @@ Estou em busca da minha primeira oportunidade como **Desenvolvedor Back-end/Full
 
 </div>
 
-<p align="center">
-Java • Spring Boot • Python • Selenium • SQL • REST APIs • Git • Docker • HTML • CSS • JavaScript
-</p>
-
 ---
 
 ## 📊 Estatísticas
 
 <div align="center">
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermerodelli&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guilhermerodelli&theme=tokyonight"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermerodelli&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</p>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guilhermerodelli&theme=tokyonight"/>
 
 </div>
 
@@ -57,7 +53,7 @@ Java • Spring Boot • Python • Selenium • SQL • REST APIs • Git • D
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermerodelli&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=guilhermerodelli&theme=tokyonight&hide_border=true"/>
 
 </div>
 
