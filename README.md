@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre mim
 
-Sou **Desenvolvedor Full-Stack** focado na construção de sistemas completos e escaláveis.
+Desenvolvedor Backend / Full Stack focado em Java e Spring Boot, com experiência em APIs REST, automação de processos com Python e integração de sistemas.
 
 Atualmente atuo como **Assistente de TI**, com experiência em:
 
@@ -21,7 +21,7 @@ Atualmente atuo como **Assistente de TI**, com experiência em:
 
 ---
 
-🎯 Buscando minha primeira oportunidade como **Full-Stack Developer Júnior**
+🎯 Buscando minha primeira oportunidade como **Back-End / Full-Stack Developer Júnior**
 
 ---
 
