@@ -1,4 +1,4 @@
-<h1 align="center">👋 Opa, eu sou Guilherme Rodelli</h1>
+<h1 align="center"> Opa, eu sou Guilherme Rodelli</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+Python;React+%7C+JavaScript+%7C+SQL;APIs+REST+%7C+Automação+%7C+Docker" />
