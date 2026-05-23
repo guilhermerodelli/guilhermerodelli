@@ -61,4 +61,15 @@ Estou em busca da minha primeira oportunidade como **Desenvolvedor Back-end/Full
 
 ## 📌 Projetos em destaque
 
+### ⚙️ API RESTful (Java + Spring Boot)
+Sistema backend com autenticação, CRUD completo e arquitetura em camadas.
+
+### 🤖 Automação com Python + Selenium
+Scripts de automação para testes e tarefas repetitivas.
+
+### 🗄️ Banco de Dados (MySQL)
+Modelagem, queries avançadas e otimização de consultas.
+
+---
+
 🚧 Em constante evolução...
